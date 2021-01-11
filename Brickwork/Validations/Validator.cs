@@ -48,7 +48,7 @@ namespace Brickwork.Validations
             }
         }
 
-        public static void CheckForSmallerBricks(int[,] matrix) // Validates that the brick is not 1X1.
+        public static void CheckForSmallerBricks(int[,] matrix) // Validates that the brick is not 1X1. Not Working.... for now
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
             {

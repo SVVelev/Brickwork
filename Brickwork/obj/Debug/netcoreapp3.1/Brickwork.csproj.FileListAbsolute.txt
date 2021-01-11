@@ -11,3 +11,16 @@ C:\Users\sveto\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csp
 C:\Users\sveto\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
 C:\Users\sveto\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
 C:\Users\sveto\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+E:\SoftUni\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+E:\SoftUni\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache

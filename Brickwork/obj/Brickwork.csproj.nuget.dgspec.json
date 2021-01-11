@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sveto\\Desktop\\Brickwork\\Brickwork\\Brickwork.csproj": {}
+    "E:\\SoftUni\\Brickwork\\Brickwork\\Brickwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sveto\\Desktop\\Brickwork\\Brickwork\\Brickwork.csproj": {
+    "E:\\SoftUni\\Brickwork\\Brickwork\\Brickwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sveto\\Desktop\\Brickwork\\Brickwork\\Brickwork.csproj",
+        "projectUniqueName": "E:\\SoftUni\\Brickwork\\Brickwork\\Brickwork.csproj",
         "projectName": "Brickwork",
-        "projectPath": "C:\\Users\\sveto\\Desktop\\Brickwork\\Brickwork\\Brickwork.csproj",
+        "projectPath": "E:\\SoftUni\\Brickwork\\Brickwork\\Brickwork.csproj",
         "packagesPath": "C:\\Users\\sveto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sveto\\Desktop\\Brickwork\\Brickwork\\obj\\",
+        "outputPath": "E:\\SoftUni\\Brickwork\\Brickwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sveto\\AppData\\Roaming\\NuGet\\NuGet.Config",

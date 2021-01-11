@@ -29,7 +29,7 @@ namespace Brickwork.Core
 
                 int[,] inputMatrix = MatrixBuilder.InputMatrixBuild(rowNumber, colNumber); // Input matrix according to user inputs.
                 Validator.ValidateMatrix(inputMatrix); // Matrix validation.
-                Validator.CheckForSmallerBricks(inputMatrix); // Validates there is no smaller brick.
+                //Validator.CheckForSmallerBricks(inputMatrix); // Validates there is no smaller brick... not working
 
                 int[,] resultMatrix = this.brickwork.AddNewLayer(inputMatrix); // Output matrix with the second layer.
 
