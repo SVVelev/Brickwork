@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sveto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sveto\\.nuget\\packages"
+    ]
+  }
+}
